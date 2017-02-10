@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SettingBar">
+        <attr name="topTitle" format="string"></attr>
+        <attr name="topTitleSize" format="dimension"></attr>
+        <attr name="topTitleColor" format="color"></attr>
+        <attr name="topTitleBackgroundColor" format="color"></attr>
+        <attr name="topTitleVisibility" format="boolean"></attr>
+
+        <attr name="leftIcon" format="reference"></attr>
+        <attr name="leftIconVisibility" format="boolean"></attr>
+
+        <attr name="leftText" format="string"></attr>
+        <attr name="leftTextSize" format="dimension"></attr>
+        <attr name="leftTextColor" format="color"></attr>
+
+        <attr name="rightText" format="string"></attr>
+        <attr name="rightTextSize" format="dimension"></attr>
+        <attr name="rightTextColor" format="color"></attr>
+
+        <attr name="rightImage" format="reference"></attr>
+        <attr name="rightImageVisibility" format="boolean"></attr>
+
+        <attr name="rightIcon" format="reference"></attr>
+        <attr name="rightIconVisibility" format="boolean"></attr>
+
+        <attr name="bottomDividerVisibility" format="boolean"/>
+        <attr name="bottomDividerColor" format="color"/>
+        <attr name="bottomDividerHeight" format="dimension"/>
+
+        <attr name="tag" format="string"/>
+
+    </declare-styleable>
+
+</resources>
