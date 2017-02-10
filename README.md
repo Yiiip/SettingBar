@@ -20,7 +20,7 @@ Android自定义控件：SettingBar
 * 所有图片可设置圆形、圆角、大小、图片资源src
 
 
-效果如下：
+效果如下：<br/>
 <img width="380px" src="http://img.blog.csdn.net/20170210205958851?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvU2tpcHBlcktldmlu/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" alt="实际效果" >
 
 
