@@ -26,7 +26,7 @@ Android自定义控件：SettingBar
 
 **如何使用：**
 * 方法一：调用get/set方法赋值
-* 方法二：使用SettingBarModel实体类赋值
+* 方法二：使用SettingBarModel实体类赋值，view.setupModel(SettingBarModel model)
 * 方法三：在xml直接设置属性赋值（暂不完善）
 
 请参考app中的源码。
